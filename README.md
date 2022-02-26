@@ -6,16 +6,19 @@ A low cost, high spec breakout board for Raspberry Pi Pico.
 ### What is Raspberry Pi Pico?
 Raspberry Pi Pico is a low-cost, high-performance microcontroller board with flexible digital interfaces.
 
-<img src="https://images.prismic.io/rpf-products/7d247ace-afb2-4555-b7b3-4f236eb779d6_Raspberry%20Pi%20Pico%201.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50&w=927&h=618" width=40% height=40%>
+<p align="center">
+  <img width="400" src="https://images.prismic.io/rpf-products/7d247ace-afb2-4555-b7b3-4f236eb779d6_Raspberry%20Pi%20Pico%201.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50&w=927&h=618" alt="Material Bread logo">
+</p>
 
 ### Raspberry Pi Pico Pinout?
 ![image](https://www.raspberrypi.com/documentation/microcontrollers/images/Pico-R3-SDK11-Pinout.svg)
 
 # What is Raspberry Pi Pico Dev-Kit?
-<img src="https://pcbwayfile.s3-us-west-2.amazonaws.com/project/21/05/17/1520332900613.png" width=40% height=40%>
-
 Pico devkit is a carrier board that hosts the Pi Pico and breaks-out its I/Os, interfaces and power circuitry. Its a handy device to get started with Rapsberry pi Pico.
 
+<p align="center">
+  <img width="400" src="https://pcbwayfile.s3-us-west-2.amazonaws.com/project/21/05/17/1520332900613.png" alt="Material Bread logo">
+</p>
 
 ## Key Features:
 - Battery charging and Management
@@ -44,6 +47,19 @@ Pico devkit is a carrier board that hosts the Pi Pico and breaks-out its I/Os, i
 - Use female wires to connect external peripherals.
 - Follow Raspberry Pi Pico Guidelines for I/O Voltages
 
+## Software and Programming:
+The SDK (Software Development Kit) provides the headers, libraries and build system necessary to write programs for
+RP2040-based devices such as Raspberry Pi Pico in C, C++ or Arm assembly language.
+The SDK is designed to provide an API and programming environment that is familiar both to non-embedded C
+developers and embedded C developers alike. A single program runs on the device at a time with a conventional main()
+method. Standard C/C++ libraries are supported along with APIs for accessing RP2040’s hardware, including DMA,
+IRQs, and the wide variety fixed function peripherals and PIO (Programmable IO).
+### For more Details
+https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf
+## Checking software contents of Pico
+If you have forgotten what has been programmed into your Raspberry Pi Pico, and the program was built using our Pico C/C++ SDK, it will usually have a name and other useful information embedded into the binary. You can use the Picotool command line utility to find out these details.
+### For more details
+https://github.com/raspberrypi/picotool
 
 ## Technical Information:
 - Signal Layers:2
@@ -59,5 +75,8 @@ Pico devkit is a carrier board that hosts the Pi Pico and breaks-out its I/Os, i
 - Length of Tracks:1435.73mm
 - Copper Areas:2
 ## Open Source design:
-All the CAD and manufacturing files are open source and available at:
+<p align="left">
+  <img width="100" src="https://th.bing.com/th/id/R.4e643d6b576a9164460033bd015eb65e?rik=hoK1V%2fMvjhXwZA&pid=ImgRaw&r=0&sres=1&sresct=1" alt="Material Bread logo">
+</p>
+All the CAD and manufacturing files are open source and available under GNU3.0
 
