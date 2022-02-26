@@ -1,7 +1,5 @@
 # Raspberry-Pi-Pico-Breakout
-Raspberry Pi Pico Breakout, RGB, Lipo Powered
-Raspberry Pi Pico Breakout Board:
-A low cost, high spec breakout board for Raspberry Pi Pico.
+Raspberry Pi Pico Breakout board featuring an RGB, Lipo Battery management system and a compact form factor at low cost.
 
 ### What is Raspberry Pi Pico?
 Raspberry Pi Pico is a low-cost, high-performance microcontroller board with flexible digital interfaces.
