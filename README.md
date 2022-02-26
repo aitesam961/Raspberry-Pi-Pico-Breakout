@@ -12,7 +12,10 @@ Raspberry Pi Pico is a low-cost, high-performance microcontroller board with fle
 ![image](https://www.raspberrypi.com/documentation/microcontrollers/images/Pico-R3-SDK11-Pinout.svg)
 
 # What is Raspberry Pi Pico Dev-Kit?
+<img src="https://pcbwayfile.s3-us-west-2.amazonaws.com/project/21/05/17/1520332900613.png" width=40% height=40%>
+
 Pico devkit is a carrier board that hosts the Pi Pico and breaks-out its I/Os, interfaces and power circuitry. Its a handy device to get started with Rapsberry pi Pico.
+
 
 ## Key Features:
 - Battery charging and Management
